@@ -1,4 +1,4 @@
-# # **One-page Website with Parallax "3D-Lense" Effect**
+# **One-page Website with Parallax "3D-Lense" Effect**
 
 The website is simply written with HTML, JS and CSS just to show some CSS/HTML skills. 
 
